@@ -1,0 +1,65 @@
+@startmindmap
+<style>
+mindmapDiagram {
+  .green0 {
+    BackgroundColor #E7F6A4
+  }
+  .green1 {
+    BackgroundColor #BACD66
+  }
+  .green2 {
+    BackgroundColor #90A437
+  }
+  .red0 {
+    BackgroundColor #FFBBCC
+  }
+  .red1 {
+    BackgroundColor #BF607B
+  }
+  .purple0 {
+    BackgroundColor #8F78AD
+  }
+  .purple1 {
+    BackgroundColor #6B4E90
+  }
+}
+</style>
++ Gevorderden 2
+-- Juana la cubana complicado <<green0>>
+-- Setenta a la izquierda y al revés <<green0>>
+-- Setenta complicado moderno <<green0>>
+-- Setenta complicado por el cuello <<green0>>
+++ Camina la <<green1>>
+++ Enchufla con mandolín <<green1>>
+++ Vacílala y florea <<green1>>
+++ Enchufla por el cuello <<green1>>
+++ La Jenny <<green1>>
+++ Vacila con columbia <<green1>>
+++ La Tuya <<green1>>
+++ Siete loco <<green1>>
+++ Siete loco complicado <<green1>>
+++ Enchufla por el cuello y en reda la <<green1>>
+++ Siete setenta
+++ Vuela vuela
+++ Abanico complicado
+++ El Zorro <<green1>>
+++ Ponle sabor <<green1>>
+legend right
+    | Kleur | Begin figuur |
+    |<#8F78AD>| Gekruist, beide handen |
+    |<#6B4E90>| Gekruist, rechterhand |
+'    |<#4C2D73>| ? |
+'    |<#321456>| ? |
+'    |<#1C053A>| ? |
+    |<#E7F6A4>| Recht op recht, beide handen |
+    |<#BACD66>| Recht op recht, linkerhand |
+'    |<#90A437>| ? |
+'    |<#687B14>| ? |
+'    |<#435200>| ? |
+'    |<#E699AF>| Andere |
+'    |<#BF607B>| ? |
+'    |<#993350>| ? |
+'    |<#73132E>| ? |
+'    |<#4D0016>| ? |
+endlegend
+@endmindmap

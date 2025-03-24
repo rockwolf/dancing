@@ -1,0 +1,75 @@
+@startmindmap
+!include <tupadr3/font-awesome/rotate_left>
+!include <tupadr3/font-awesome/rotate_right>
+<style>
+mindmapDiagram {
+  .green0 {
+    BackgroundColor #E7F6A4
+  }
+  .green1 {
+    BackgroundColor #BACD66
+  }
+  .green2 {
+    BackgroundColor #90A437
+  }
+  .red0 {
+    BackgroundColor #FFBBCC
+  }
+  .red1 {
+    BackgroundColor #BF607B
+  }
+  .red2 {
+    BackgroundColor #993350
+  }
+  .purple0 {
+    BackgroundColor #8F78AD
+  }
+  .purple1 {
+    BackgroundColor #6B4E90
+  }
+}
+</style>
++ Gevorderden 1
+-- <$rotate_right*0.5> Dedo por debajo <<purple1>>
+-- <$rotate_right*0.5> Bailamos por Matanza <<purple1>>
+-- Un fly - Un rolley - Una ligna <<red0>>
+-- Ni pa ti, ni pa ta + en camina <<red0>>
+-- <$rotate_right*0.5> Saca la vecina <<red1>>
+-- ? + complícate + en camina <<red2>>
+++ <$rotate_left*0.5> La preciosa <<green0>>
+++ <$rotate_right*0.5> Puente <<green0>>
+++ <$rotate_right*0.5> Beso por debajo <<green0>>
+++ <$rotate_right*0.5> Setenta complicado doble <<green0>>
+++ <$rotate_right*0.5> Beso complicado <<green0>>
+++ <$rotate_right*0.5> Consorte <<green0>>
+++ <$rotate_right*0.5> Sombrero con mambo (con jump) <<green0>>
+++ <$rotate_left*0.5> La josefa <<green1>>
+++ <$rotate_left*0.5> La cuadra (complicado) <<green1>>
+++ Echavaría <<green1>>
+++ <$rotate_right*0.5> Prima con la hermana (= adiós a la hermana) <<green1>>
+++ <$rotate_right*0.5> Prima con la família <<green1>>
+++ <$rotate_right*0.5> Prima se meti a [3|5|...] <<green1>>
+++ <$rotate_right*0.5> Festival de prima (= festival de adiós) <<green1>>
+++ <$rotate_left*0.5> Pelota uno/dos/tres <<green1>>
+++ <$rotate_left*0.5> Festival de pelota <<green1>>
+++ <$rotate_left*0.5> Isaura <<green1>>
+++ <$rotate_left*0.5> Enchufla con Cubanita <<green1>>
+legend right
+    | Kleur | Begin figuur |
+    |<#8F78AD>| Gekruist, beide handen |
+    |<#6B4E90>| Gekruist, rechterhand |
+'    |<#4C2D73>| ? |
+'    |<#321456>| ? |
+'    |<#1C053A>| ? |
+    |<#E7F6A4>| Recht op recht, beide handen |
+    |<#BACD66>| Recht op recht, linkerhand |
+'    |<#90A437>| ? |
+'    |<#687B14>| ? |
+'    |<#435200>| ? |
+    |<#E699AF>| Vanuit basispositie, handen loslaten |
+    |<#BF607B>| Rechterhand neemt linkerhand dame rechts van u |
+    |<#993350>| Hand in hand met beide dames naast u |
+'    |<#73132E>| ? |
+'    |<#4D0016>| ? |
+endlegend
+@endmindmap
