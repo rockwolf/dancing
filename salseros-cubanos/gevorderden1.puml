@@ -32,8 +32,8 @@ mindmapDiagram {
 + Gevorderden 1
 -- <$rotate_right*0.5> Dedo por debajo <<purple1>>
 -- <$rotate_right*0.5> Bailamos por Matanza <<purple1>>
--- Un fly - Un rolley - Una ligna <<red0>>
--- Ni pa ti, ni pa ta + en camina <<red0>>
+-- Un fly - Un rolley - Una ligna [Dos fly - ...] <<red0>>
+-- Ni pa' ti, ni pa' mi + en camina <<red0>>
 -- <$rotate_right*0.5> Saca la vecina <<red1>>
 -- ? + complícate + en camina <<red2>>
 ++ <$rotate_left*0.5> La preciosa <<green0>>
@@ -45,7 +45,8 @@ mindmapDiagram {
 ++ <$rotate_right*0.5> Sombrero con mambo (con jump) <<green0>>
 ++ <$rotate_left*0.5> La josefa <<green1>>
 ++ <$rotate_left*0.5> La cuadra (complicado) <<green1>>
-++ Echavaría <<green1>>
+++ Echeverria <<green1>>
+++ Echeverria con vuelta <<green1>>
 ++ <$rotate_right*0.5> Prima con la hermana (= adiós a la hermana) <<green1>>
 ++ <$rotate_right*0.5> Prima con la família <<green1>>
 ++ <$rotate_right*0.5> Prima se meti a [3|5|...] <<green1>>
