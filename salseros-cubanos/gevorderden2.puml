@@ -25,11 +25,14 @@ mindmapDiagram {
 }
 </style>
 + Gevorderden 2
+-- <$rotate_right*0.5> Setenta por las manos <<red2>>
 -- <$rotate_right*0.5> Bailamos con coche <<green0>>
 -- Juana la cubana complicado <<green0>>
--- Setenta a la izquierda y al revés <<green0>>
--- Setenta complicado moderno <<green0>>
--- Setenta complicado por el cuello <<green0>>
+-- <$rotate_right*0.5> Setenta a la izquierda y al revés <<green0>>
+-- <$rotate_right*0.5> Setenta complicado moderno <<green0>>
+-- <$rotate_right*0.5> Setenta complicado por el cuello <<green0>>
+-- <$rotate_right*0.5> Especula <<green0>>
+-- <$rotate_right*0.5> Se fue <<green0>>
 ++ Camina la <<green1>>
 ++ Enchufla con mandolín <<green1>>
 ++ Vacílala y florea <<green1>>
@@ -40,6 +43,7 @@ mindmapDiagram {
 ++ Siete loco <<green1>>
 ++ Siete loco complicado <<green1>>
 ++ Enchufla por el cuello y en reda la <<green1>>
+++ Enchufla con familion <<green1>>
 ++ Siete setenta
 ++ Vuela vuela
 ++ Abanico complicado
@@ -57,7 +61,9 @@ legend right
 '    |<#90A437>| ? |
 '    |<#687B14>| ? |
 '    |<#435200>| ? |
-'    |<#E699AF>| Andere |
+    |<#E699AF>| Vanuit basispositie, handen loslaten |
+    |<#BF607B>| Rechterhand neemt linkerhand dame rechts van u |
+    |<#993350>| Hand in hand met beide dames naast u |
 '    |<#BF607B>| ? |
 '    |<#993350>| ? |
 '    |<#73132E>| ? |
